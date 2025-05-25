@@ -8,6 +8,10 @@
 2. Second line
 3. Third line
 
+- first line
+- second line
+- third line
+
 `Python
 s = "python highlighting"
 print s
