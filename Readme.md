@@ -1,2 +1,3 @@
 # ET0735 - Lab 1 ( Introduction to Git and Github )
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![images](https://github.com/user-attachments/assets/fad137cd-6544-46c4-a036-df607b5b506e)
