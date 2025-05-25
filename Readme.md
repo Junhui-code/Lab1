@@ -12,5 +12,8 @@
 s = "python highlighting"
 print s
 `
-
+|Programming Language|Benefit|Sideeffect|
+|--------------------|-------|----------|
+|Python|Easy to write and read|runtime|
+|Cpp|Faster runtime|Difficult to read and write|
 
